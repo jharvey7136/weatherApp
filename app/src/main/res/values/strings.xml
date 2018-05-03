@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="inputTextView">Enter Zip Code:</string>
+    <string name="getWeatherButton">Get Weather</string>
+
+    <string name="tempTextView">(Temp)</string>
+
+    <string name="cityTextView">(City)</string>
+
+
+    <string name="inputErr">Invalid Zip</string>
+    <string name="required">Zip Required</string>
+
+</resources>
